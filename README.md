@@ -1,7 +1,7 @@
 # SpaceY7
 This is a school project. In about 6 weeks from concept to currently released game. Many features are not yet established and we aim to further work on it in our spare time. Apologies for that.
 ## Overview
-+ Contributors: A group of students. We split ourselves into 3 departments that resemble our classe
++ Contributors: A group of students. We split ourselves into 3 departments that resemble our classes
 + GME: Joyce Goodwin, Christof Kloninger
 + 3DE: Vera Schöniger, János Bofinger, Elisa Straach, Julie Vohl
 + XMD: Margarethe Reinecken, Giuseppe Lentini, Christian Kolb
